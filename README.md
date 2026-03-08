@@ -2,7 +2,7 @@
 
 Data Scientist | Econometrics & Machine Learning  
 
-MSc in Statistical Modelling for Economics and Finance – Sorbonne
+MSc in Statistical Modelling for Economics and Finance – Pantheon Sorbonne University
 
 ## Interests
 - Machine Learning
