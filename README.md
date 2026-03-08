@@ -1,11 +1,20 @@
 # Victoria Vidal
 
-Data Science & Econometrics  
-Interest in Digital Law, AI Regulation and Data Governance.
+Data Scientist | Econometrics & Machine Learning  
+
+MSc in Statistical Modelling for Economics and Finance – Sorbonne
+
+## Interests
+- Machine Learning
+- Data Science
+- Financial Data Analysis
+- AI & Data Governance
 
 ## Projects (coming soon)
 
 This GitHub will host selected projects related to:
+
 - Data analysis
 - Machine learning
-- automation workflows
+- Quantitative finance
+- Automation workflows
